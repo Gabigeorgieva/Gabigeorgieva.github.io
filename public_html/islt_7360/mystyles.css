@@ -1,0 +1,23 @@
+h1{
+    color:#fff;
+    background-color:#BEBADD;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    text-transform: uppercase;
+}
+body{
+    background-color:#F8F8F8;
+    font-family: 'Open Sans Condensed';
+}
+
+h2{
+    color:#AAEDE1;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+body{
+    padding-left: 80px;
+    padding-right: 80px;
+}
